@@ -7,7 +7,7 @@ Algorithms notes learning from ZuoShen.
 每多练习一道题，就距离一名优秀的码农更近了一步。  
 
 
-> **"常用的算法喝数据结构，不了解这些的程序员基本只能写写'Hellow World'。"
+> **"常用的算法和数据结构，不了解这些的程序员基本只能写写'Hellow World'。"
 ——陈黎明（微软，SDE ll）**  
 
 > **"最不能容忍功能错误，忽略边界情况。"
