@@ -461,7 +461,7 @@ $$T(N) = \frac{N}{2} + 2*\frac{N}{4} + 3*\frac{N}{8} + 4*\frac{N}{16} + 5*\frac{
 $$T(N) = \frac{N}{2} + \frac{N}{4} + \frac{N}{8} + \frac{N}{16} + \frac{N}{32} + \cdots  = O(N)$$
 这样能够将构造过程从原始的$O(N*\log{N})$降到O(N)，可以快一点点。  
 <div align=center>
-<img src="./img/HeapSort V2.0.png" width="512px"/>
+<img src="./img/01_img/HeapSort V2.0.png" width="512px"/>
 </div> 
 
 - **Code**：
@@ -510,7 +510,7 @@ public static void heapify(int[] arr, int idx, int size) {
 
 常规的基数排序代码实现要基于Radix个队列桶，而左神给的代码首先创建了一个词频表，通过前缀和数组（划片）的方式巧妙的避开了桶的创建、入桶出桶操作。  
 <div align=center>
-<img src="./img/RadixSort.png" width="760px"/>
+<img src="./img/01_img/RadixSort.png" width="760px"/>
 </div> 
 
 ```java
@@ -895,7 +895,7 @@ public static void main(String[] args) {
 - **编程难点**：需要考虑数据长度比滑窗小的情况，滑窗构建起始和末尾的过程都要考虑清楚。此代码使用了idx标记滑窗右边界，使用i标记滑窗左边界。
 
 <div align=center>
-<img src="./img/sortedArrDistanceLessK.jpg" width="512px"/>
+<img src="./img/01_img/sortedArrDistanceLessK.jpg" width="512px"/>
 </div>
 
 - **Code**
