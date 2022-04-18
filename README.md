@@ -58,5 +58,5 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题18:判断搜索二叉树(Binary Search Tree)  
     &emsp;&emsp;题19:判断完全二叉树(Complete Binary Tree)  
     &emsp;&emsp;题20:判断满二叉树(Full Binary Tree)  
-    &emsp;&emsp;题21:判断平衡二叉树(Full Binary Tree)  
+    &emsp;&emsp;题21:判断平衡二叉树(Balanced Tree)  
     
