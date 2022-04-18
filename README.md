@@ -48,3 +48,15 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题12:具有随意指针的链表复制问题  
     &emsp;&emsp;题13:链表入环节点查找(题14的前置问题)  
     &emsp;&emsp;题14:两链表相交系列问题(链表中最难的题目)  
+
+[**03_二叉树.md**]()
+    &emsp;&emsp;1.二叉树三种遍历  
+    &emsp;&emsp;2.二叉树树型DP常用框架  
+    &emsp;&emsp;题15:二叉树的三种非递归遍历  
+    &emsp;&emsp;题16:完成二叉树宽度优先遍历  
+    &emsp;&emsp;题17:求一颗二叉树的最大宽度(基于宽度优先遍历)  
+    &emsp;&emsp;题18:判断搜索二叉树(Binary Search Tree)  
+    &emsp;&emsp;题19:判断完全二叉树(Complete Binary Tree)  
+    &emsp;&emsp;题20:判断满二叉树(Full Binary Tree)  
+    &emsp;&emsp;题21:判断平衡二叉树(Full Binary Tree)  
+    
