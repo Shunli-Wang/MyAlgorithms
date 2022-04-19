@@ -35,7 +35,7 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题04:小和问题-归并排序的深度改写  
     &emsp;&emsp;题05:荷兰国旗问题-快排的思想来源  
     &emsp;&emsp;题06:数字位置在有有序有限范围内，实现整体排序  
-    &emsp;&emsp;题07：面试官要搞你-奇偶划分问题  
+    &emsp;&emsp;题07:面试官要搞你-奇偶划分问题  
 
 [**02_哈希表&有序表&链表.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/02_%E5%93%88%E5%B8%8C%E8%A1%A8%26%E6%9C%89%E5%BA%8F%E8%A1%A8%26%E9%93%BE%E8%A1%A8.md)  
     &emsp;&emsp;1.哈希表(HashSet & HashMap)  
@@ -51,7 +51,7 @@ Algorithms notes learning from ZuoShen.
 
 [**03_二叉树.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/03_%E4%BA%8C%E5%8F%89%E6%A0%91.md)  
     &emsp;&emsp;1.二叉树三种遍历  
-    &emsp;&emsp;2.二叉树树型DP常用框架  
+    &emsp;&emsp;2.二叉树树型DP常用框架(重要)  
     &emsp;&emsp;题15:二叉树的三种非递归遍历  
     &emsp;&emsp;题16:完成二叉树宽度优先遍历  
     &emsp;&emsp;题17:求一颗二叉树的最大宽度(基于宽度优先遍历)  
@@ -59,4 +59,7 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题19:判断完全二叉树(Complete Binary Tree)  
     &emsp;&emsp;题20:判断满二叉树(Full Binary Tree)  
     &emsp;&emsp;题21:判断平衡二叉树(Balanced Tree)  
-    
+    &emsp;&emsp;题22:最低公共祖先节点(Lowest Common Ancestor)  
+    &emsp;&emsp;题23:带父指针二叉树的后继节点寻找  
+    &emsp;&emsp;题24:二叉树的序列化与反序列化(Serialize & Reconstruct)  
+    &emsp;&emsp;题25:纸条对折中的折痕罗列(微软原题)  
