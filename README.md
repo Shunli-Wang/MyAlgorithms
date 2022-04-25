@@ -72,5 +72,5 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;5.拓扑排序(Topology Sort)  
     &emsp;&emsp;6.最小生成树MST(Kruskal算法)  
     &emsp;&emsp;7.最小生成树MST(Prim算法)  
-    &emsp;&emsp;题26:将图数据转化为图结构(接口函数)  
     &emsp;&emsp;8.单源最短路径(Dijkstra算法)  
+    &emsp;&emsp;题26:将图数据转化为图结构(接口函数)  
