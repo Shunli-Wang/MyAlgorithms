@@ -75,13 +75,13 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;8.单源最短路径(Dijkstra算法)  
     &emsp;&emsp;题26:将图数据转化为图结构(接口函数)  
 
-[**05_前缀树&贪心算法.md**]()  
-    &emsp;&emsp;1.前缀树(Trie)
-    &emsp;&emsp;2.贪心算法
-    &emsp;&emsp;题27.字符串查询问题
-    &emsp;&emsp;题28.会议安排问题
-    &emsp;&emsp;题29.字符串拼接的最小字典序
-    &emsp;&emsp;题30.金条分割的最小代价(Huffman Coding)
-    &emsp;&emsp;题31.项目利润与花费问题(大小根堆配合)
-    &emsp;&emsp;题32.数据流的中位数(大小根堆配合，和贪心无关)
+[**05_前缀树&贪心算法.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/05_%E5%89%8D%E7%BC%80%E6%A0%91%26%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.md)  
+    &emsp;&emsp;1.前缀树(Trie)  
+    &emsp;&emsp;2.贪心算法  
+    &emsp;&emsp;题27.字符串查询问题  
+    &emsp;&emsp;题28.会议安排问题  
+    &emsp;&emsp;题29.字符串拼接的最小字典序  
+    &emsp;&emsp;题30.金条分割的最小代价(Huffman Coding)  
+    &emsp;&emsp;题31.项目利润与花费问题(大小根堆配合)  
+    &emsp;&emsp;题32.数据流的中位数(大小根堆配合，和贪心无关)  
     
