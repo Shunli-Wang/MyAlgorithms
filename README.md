@@ -73,6 +73,7 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;6.最小生成树MST(Kruskal算法)  
     &emsp;&emsp;7.最小生成树MST(Prim算法)  
     &emsp;&emsp;8.单源最短路径(Dijkstra算法)  
+    &emsp;&emsp;9.Dijkstra的堆加速  
     &emsp;&emsp;题26:将图数据转化为图结构(接口函数)  
 
 [**05_前缀树&贪心算法.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/05_%E5%89%8D%E7%BC%80%E6%A0%91%26%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.md)  
