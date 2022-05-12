@@ -85,4 +85,11 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题30.金条分割的最小代价(Huffman Coding)  
     &emsp;&emsp;题31.项目利润与花费问题(大小根堆配合)  
     &emsp;&emsp;题32.数据流的中位数(大小根堆配合，和贪心无关)  
-    
+
+[**06_暴力递归.md**]()  
+    &emsp;&emsp;1.暴力递归  
+    &emsp;&emsp;题33.汉诺塔问题  
+    &emsp;&emsp;题34.字符串子序列打印  
+    &emsp;&emsp;题35.字符串全排列  
+    &emsp;&emsp;题36.纸牌博弈问题  
+    &emsp;&emsp;题37.基于递归的栈逆序  
