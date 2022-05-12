@@ -86,7 +86,7 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题31.项目利润与花费问题(大小根堆配合)  
     &emsp;&emsp;题32.数据流的中位数(大小根堆配合，和贪心无关)  
 
-[**06_暴力递归.md**]()  
+[**06_暴力递归.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/06_%E6%9A%B4%E5%8A%9B%E9%80%92%E5%BD%92.md)  
     &emsp;&emsp;1.暴力递归  
     &emsp;&emsp;题33.汉诺塔问题  
     &emsp;&emsp;题34.字符串子序列打印  
