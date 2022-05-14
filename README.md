@@ -95,4 +95,4 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题37.基于递归的栈逆序  
     &emsp;&emsp;题38.数字转字符串  
     &emsp;&emsp;题39.背包问题  
-    &emsp;&emsp;题40.N皇后问题  
+    &emsp;&emsp;题40.N皇后问题(常规&位运算加速)  
