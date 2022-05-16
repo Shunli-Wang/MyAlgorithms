@@ -97,13 +97,11 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题39.背包问题  
     &emsp;&emsp;题40.N皇后问题(常规&位运算加速)  
 
-[**07_哈希函数&哈希表.md**]()
+[**07_哈希函数&哈希表.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/07_%E5%93%88%E5%B8%8C%E5%87%BD%E6%95%B0%26%E5%93%88%E5%B8%8C%E8%A1%A8.md)  
     &emsp;&emsp;1.哈希函数  
     &emsp;&emsp;2.哈希表  
     &emsp;&emsp;3.布隆过滤器  
     &emsp;&emsp;4.一致性哈希原理  
-    &emsp;&emsp;题33.大数据量频次统计  
-    &emsp;&emsp;题34.设计RandomPool结构  
-    &emsp;&emsp;题35.Bit Map实现  
-
-    
+    &emsp;&emsp;题41.大数据量频次统计  
+    &emsp;&emsp;题42.设计RandomPool结构  
+    &emsp;&emsp;题43.Bit Map实现  
