@@ -87,7 +87,7 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题32.数据流的中位数(大小根堆配合，和贪心无关)  
 
 [**06_暴力递归.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/06_%E6%9A%B4%E5%8A%9B%E9%80%92%E5%BD%92.md)  
-    &emsp;&emsp;1.暴力递归  
+    &emsp;&emsp;1.暴力递归(Force Recursive)  
     &emsp;&emsp;题33.汉诺塔问题  
     &emsp;&emsp;题34.字符串子序列打印  
     &emsp;&emsp;题35.字符串全排列  
@@ -100,7 +100,7 @@ Algorithms notes learning from ZuoShen.
 [**07_哈希函数&哈希表.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/07_%E5%93%88%E5%B8%8C%E5%87%BD%E6%95%B0%26%E5%93%88%E5%B8%8C%E8%A1%A8.md)  
     &emsp;&emsp;1.哈希函数  
     &emsp;&emsp;2.哈希表  
-    &emsp;&emsp;3.布隆过滤器  
+    &emsp;&emsp;3.布隆过滤器(Bloom Filter)  
     &emsp;&emsp;4.一致性哈希原理  
     &emsp;&emsp;题41.大数据量频次统计  
     &emsp;&emsp;题42.设计RandomPool结构  
