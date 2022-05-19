@@ -13,6 +13,9 @@ Algorithms notes learning from ZuoShen.
 > **"最不能容忍功能错误，忽略边界情况。"
 ——尹彦（英特尔，软件工程师）**
 
+> **"功夫都是练出来的，别人干的好好的，用你干啥？为什么需要你啊？因为你coding好，你练过算法，任何恶心的业务你都能写出来，这叫coding好。"
+——左神**
+
 # Contents
 [**01_排序.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/01_%E6%8E%92%E5%BA%8F.md)  
     &emsp;&emsp;1.时间复杂度基本概念  
@@ -101,7 +104,7 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;1.哈希函数  
     &emsp;&emsp;2.哈希表  
     &emsp;&emsp;3.布隆过滤器(Bloom Filter)  
-    &emsp;&emsp;4.一致性哈希原理  
+    &emsp;&emsp;一致性哈希原理(Consistent Hashing)  
     &emsp;&emsp;题41.大数据量频次统计  
     &emsp;&emsp;题42.设计RandomPool结构  
     &emsp;&emsp;题43.Bit Map实现  
