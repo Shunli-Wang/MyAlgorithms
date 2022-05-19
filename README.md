@@ -104,7 +104,7 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;1.哈希函数  
     &emsp;&emsp;2.哈希表  
     &emsp;&emsp;3.布隆过滤器(Bloom Filter)  
-    &emsp;&emsp;一致性哈希原理(Consistent Hashing)  
+    &emsp;&emsp;4.一致性哈希原理(Consistent Hashing)  
     &emsp;&emsp;题41.大数据量频次统计  
     &emsp;&emsp;题42.设计RandomPool结构  
     &emsp;&emsp;题43.Bit Map实现  
