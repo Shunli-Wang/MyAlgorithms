@@ -109,6 +109,6 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题42.设计RandomPool结构  
     &emsp;&emsp;题43.Bit Map实现  
 
-[**08_KMP & Manacher算法.md**]()  
+[**08_KMP & Manacher算法.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/08_KMP%20%26%20Manacher%E7%AE%97%E6%B3%95.md)  
     &emsp;&emsp;1.最长[前缀后缀相等]子序列长度数组next[]  
     &emsp;&emsp;2.KMP算法  
