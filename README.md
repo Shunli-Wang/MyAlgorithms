@@ -108,3 +108,7 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题41.大数据量频次统计  
     &emsp;&emsp;题42.设计RandomPool结构  
     &emsp;&emsp;题43.Bit Map实现  
+
+[**08_KMP & Manacher算法.md**]()  
+    &emsp;&emsp;1.最长[前缀后缀相等]子序列长度数组next[]  
+    &emsp;&emsp;2.KMP算法  
