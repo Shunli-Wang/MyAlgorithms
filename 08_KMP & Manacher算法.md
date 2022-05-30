@@ -47,7 +47,7 @@ static int[] getNextArr(char[] arr){
     - 若str1中存在str2，返回str1中的起始位置；
     - 若str1中不存在str2，返回-1。
 <div align=center>
-<img src="./img/08_img/bruteForce.png" width="420px"/>
+<img src="./img/08_img/bruteForce.png" width="480px"/>
 </div>
 
 - **KMP算法流程**：KMP只是在暴力匹配的基础上进行了加速。通过next数组的构建，利用str2字符串内部的**前后缀相等部分**进行跳跃加速。
