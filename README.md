@@ -114,3 +114,10 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;2.KMP算法  
     &emsp;&emsp;3.最长回文半径数组rArr[]  
     &emsp;&emsp;4.Manacher算法  
+
+[**08_KMP & Manacher算法.md**]()  
+    &emsp;&emsp;1.并查集(Union Find)  
+    &emsp;&emsp;2.窗口内Max&Min更新  
+    &emsp;&emsp;3.单调栈  
+    &emsp;&emsp;题目.岛问题  
+    &emsp;&emsp;题目.岛问题并行处理(Google级别面试题)  
