@@ -118,6 +118,8 @@ Algorithms notes learning from ZuoShen.
 [**09_并查集&窗口最大最小&单调栈.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/09_%E5%B9%B6%E6%9F%A5%E9%9B%86%26%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E6%9C%80%E5%B0%8F%26%E5%8D%95%E8%B0%83%E6%A0%88.md)  
     &emsp;&emsp;1.并查集(Union Find)  
     &emsp;&emsp;2.窗口内Max&Min更新  
-    &emsp;&emsp;3.单调栈  
-    &emsp;&emsp;题目.岛问题  
-    &emsp;&emsp;题目.岛问题并行处理(Google级别面试题)  
+    &emsp;&emsp;3.单调栈(Monotonous Stack)  
+    &emsp;&emsp;题目44.岛问题  
+    &emsp;&emsp;题目45.岛问题并行处理(Google级别面试题)  
+    &emsp;&emsp;题目46.窗口内Max更新结构  
+    &emsp;&emsp;题目47.单调栈使用  
