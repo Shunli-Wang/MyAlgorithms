@@ -107,9 +107,11 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;4.一致性哈希原理(Consistent Hashing)  
     &emsp;&emsp;5.大数据类型题目-解题技巧汇总  
     &emsp;&emsp;题41.设计RandomPool结构  
-    &emsp;&emsp;题42.大数据量频次统计  
+    &emsp;&emsp;题42.大数据量频次统计(哈希分流)  
     &emsp;&emsp;题43.Bit Map实现  
     &emsp;&emsp;题44.区间内词频统计方法  
+    &emsp;&emsp;题45.海量URL去重(哈希分流/布隆过滤器)  
+    &emsp;&emsp;题46.Top100热词排行(哈希分流+二维堆汇总)  
 
 [**08_KMP & Manacher算法.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/08_KMP%20%26%20Manacher%E7%AE%97%E6%B3%95.md)  
     &emsp;&emsp;1.最长[前缀后缀相等]子序列长度数组next[]  
