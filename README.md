@@ -100,14 +100,16 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题39.背包问题  
     &emsp;&emsp;题40.N皇后问题(常规&位运算加速)  
 
-[**07_哈希函数&哈希表.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/07_%E5%93%88%E5%B8%8C%E5%87%BD%E6%95%B0%26%E5%93%88%E5%B8%8C%E8%A1%A8.md)  
+[**07_哈希函数&哈希表&资源限制类.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/07_%E5%93%88%E5%B8%8C%E5%87%BD%E6%95%B0%26%E5%93%88%E5%B8%8C%E8%A1%A8%26%E8%B5%84%E6%BA%90%E9%99%90%E5%88%B6%E7%B1%BB.md)  
     &emsp;&emsp;1.哈希函数  
     &emsp;&emsp;2.哈希表  
     &emsp;&emsp;3.布隆过滤器(Bloom Filter)  
     &emsp;&emsp;4.一致性哈希原理(Consistent Hashing)  
+    &emsp;&emsp;5.大数据类型题目-解题技巧汇总  
     &emsp;&emsp;题41.大数据量频次统计  
     &emsp;&emsp;题42.设计RandomPool结构  
     &emsp;&emsp;题43.Bit Map实现  
+    &emsp;&emsp;题44.区间内词频统计方法  
 
 [**08_KMP & Manacher算法.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/08_KMP%20%26%20Manacher%E7%AE%97%E6%B3%95.md)  
     &emsp;&emsp;1.最长[前缀后缀相等]子序列长度数组next[]  
