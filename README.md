@@ -106,8 +106,8 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;3.布隆过滤器(Bloom Filter)  
     &emsp;&emsp;4.一致性哈希原理(Consistent Hashing)  
     &emsp;&emsp;5.大数据类型题目-解题技巧汇总  
-    &emsp;&emsp;题41.大数据量频次统计  
-    &emsp;&emsp;题42.设计RandomPool结构  
+    &emsp;&emsp;题41.设计RandomPool结构  
+    &emsp;&emsp;题42.大数据量频次统计  
     &emsp;&emsp;题43.Bit Map实现  
     &emsp;&emsp;题44.区间内词频统计方法  
 
