@@ -107,11 +107,12 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;4.一致性哈希原理(Consistent Hashing)  
     &emsp;&emsp;5.大数据类型题目-解题技巧汇总  
     &emsp;&emsp;题41.设计RandomPool结构  
-    &emsp;&emsp;题42.大数据量频次统计(哈希分流)  
-    &emsp;&emsp;题43.Bit Map实现  
-    &emsp;&emsp;题44.区间内词频统计方法  
+    &emsp;&emsp;题42.Bit Map实现  
+    &emsp;&emsp;题43.大数据量频次统计(哈希分流)  
+    &emsp;&emsp;题44.区间内词频统计  
     &emsp;&emsp;题45.海量URL去重(哈希分流/布隆过滤器)  
     &emsp;&emsp;题46.Top100热词排行(哈希分流+二维堆汇总)  
+    &emsp;&emsp;题47.大数据中两次频次检测(哈希分流/双位图)  
 
 [**08_KMP & Manacher算法.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/08_KMP%20%26%20Manacher%E7%AE%97%E6%B3%95.md)  
     &emsp;&emsp;1.最长[前缀后缀相等]子序列长度数组next[]  
@@ -123,7 +124,7 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;1.并查集(Union Find)  
     &emsp;&emsp;2.窗口内Max&Min更新  
     &emsp;&emsp;3.单调栈(Monotonous Stack)  
-    &emsp;&emsp;题目44.岛问题  
-    &emsp;&emsp;题目45.岛问题并行处理(Google级别面试题)  
-    &emsp;&emsp;题目46.窗口内Max更新结构  
-    &emsp;&emsp;题目47.单调栈使用  
+    &emsp;&emsp;题目48.岛问题  
+    &emsp;&emsp;题目49.岛问题并行处理(Google级别面试题)  
+    &emsp;&emsp;题目50.窗口内Max更新结构  
+    &emsp;&emsp;题目51.单调栈使用  
