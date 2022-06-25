@@ -125,7 +125,13 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;1.并查集(Union Find)  
     &emsp;&emsp;2.窗口内Max&Min更新  
     &emsp;&emsp;3.单调栈(Monotonous Stack)  
-    &emsp;&emsp;题目48.岛问题  
-    &emsp;&emsp;题目49.岛问题并行处理(Google级别面试题)  
-    &emsp;&emsp;题目50.窗口内Max更新结构  
-    &emsp;&emsp;题目51.单调栈使用  
+    &emsp;&emsp;题目49.岛问题  
+    &emsp;&emsp;题目50.岛问题并行处理(Google级别面试题)  
+    &emsp;&emsp;题目51.窗口内Max更新结构  
+    &emsp;&emsp;题目52.单调栈使用  
+
+[**10_位运算.md**]()  
+    &emsp;&emsp;1.位运算基础   
+    &emsp;&emsp;题53.无比较判断大小  
+    &emsp;&emsp;题54.判断2和4的幂  
+    &emsp;&emsp;题55.位运算加减乘除  
