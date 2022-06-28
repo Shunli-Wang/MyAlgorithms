@@ -130,7 +130,7 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题目51.窗口内Max更新结构  
     &emsp;&emsp;题目52.单调栈使用  
 
-[**10_位运算.md**]()  
+[**10_位运算.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/10_%E4%BD%8D%E8%BF%90%E7%AE%97.md)  
     &emsp;&emsp;1.位运算基础   
     &emsp;&emsp;题53.无比较判断大小  
     &emsp;&emsp;题54.判断2和4的幂  
