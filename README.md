@@ -128,7 +128,7 @@ Algorithms notes learning from ZuoShen.
     &emsp;&emsp;题目49.岛问题  
     &emsp;&emsp;题目50.岛问题并行处理(Google级别面试题)  
     &emsp;&emsp;题目51.窗口内Max更新结构  
-    &emsp;&emsp;题目52.单调栈使用  
+    &emsp;&emsp;找数组最大A指标(单调栈应用)  
 
 [**10_位运算.md**](https://github.com/Shunli-Wang/MyAlgorithms/blob/main/10_%E4%BD%8D%E8%BF%90%E7%AE%97.md)  
     &emsp;&emsp;1.位运算基础   
